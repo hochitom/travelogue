@@ -23,7 +23,8 @@
     "node": "0.10.x"
   },
   "dependencies": {
-    "passport": "0.2.x"
+    "passport": "0.2.x",
+    "lodash": "~2.4.1"
   },
   "peerDependencies": {
     "hapi": ">=2.x",
